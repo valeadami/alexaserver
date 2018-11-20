@@ -1,0 +1,22 @@
+{
+  "name": "alexa-server",
+  "version": "1.0.0",
+  "description": "test di modulo server node con alexa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valeadami/alexaserver.git"
+  },
+  "author": "va",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valeadami/alexaserver/issues"
+  },
+  "homepage": "https://github.com/valeadami/alexaserver#readme",
+  "dependencies": {
+    "alexa-app-server": "^3.0.2"
+  }
+}
