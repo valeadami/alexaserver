@@ -1,0 +1,3 @@
+[submodule "apps/test-skill-alexa"]
+	path = apps/test-skill-alexa
+	url = https://github.com/valeadami/test-skill-alexa
